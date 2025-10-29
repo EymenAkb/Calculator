@@ -2,7 +2,7 @@
 
 This repository was developed by **Eymen Akbulut** as part of learning computing with python.
 
-#Description
+# Description
 
 This program is a basic GUI-based calculator that allows you to perform addition, subtraction, multiplication, and division.
 
