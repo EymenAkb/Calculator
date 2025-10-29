@@ -1,4 +1,4 @@
-#Calculator
+# Calculator
 
 This repository was developed by **Eymen Akbulut** as part of learning computing with python.
 
@@ -18,7 +18,7 @@ This project requires only one built_in (*some linux versions may not include*) 
 
 - `tkinter as tk`: for creating the graphical user interface (GUI)
 
-**Note: Some Linux distributions may not include tkinter by default. If it’s missing, install it with:
+**Note**: Some Linux distributions may not include tkinter by default. If it’s missing, install it with:
 ```bash
 sudo apt install python3-tk
 ```
